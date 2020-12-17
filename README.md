@@ -35,3 +35,4 @@ The accuracy score of this model as shown below is approximately 93% which is be
 <img width="603" alt="Screen Shot 2020-12-16 at 8 31 15 PM" src="https://user-images.githubusercontent.com/69806770/102426645-b3b15e00-3fdd-11eb-84a3-d573c39c288f.png">
 
 ## Summary
+Overall, the resampling tests did not perform very well in terms of accuracy and sensitivity. The ensemble models performed much better with higher accuracy scores and sensitivity scores and the same precision scores. The machine learning model I would recommend to choose is the Easy Ensemble AdaBoost as it has the highest accuracy score at a 93% which is fairly high as well as high scores for both the precision and sensitivity at 0.99 and 0.95 respectively which were both good scores.
